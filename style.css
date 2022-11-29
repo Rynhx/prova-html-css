@@ -1,0 +1,121 @@
+title {7}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(231, 204, 231);
+    }
+    
+    #img-legend {
+        text-align:center;
+    }
+    
+    div > img {
+        border-radius:  30px;
+    }
+    
+    div > 
+        figcaption {
+            font-size: 20px;
+            font-weight: 300;
+            width: -webkit-fit-content;
+            width: -moz-fit-content;
+            width: fit-content;
+            margin: auto;
+            color: #c84242;
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+        .hfe-search-form__input[type=search] {
+            border: 0;
+            padding: 50px;
+            cursor: pointer;
+            border-radius: 0;
+            transition: all .5s;
+            box-sizing: border-box;
+            outline: none;
+            width: 100%;}
+
+            .post-header-holder {
+                background-color: #fd42B333;
+                height: 475px;
+                max-width: 1200px;
+                border-radius: 20px;
+                background-size: cover;
+                background-position: center;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-justify-content: flex-end;
+                -ms-flex-pack: end;
+                justify-content: flex-end;
+                -webkit-flex-direction: column;
+                -ms-flex-direction: column;
+                flex-direction: column;
+                background-blend-mode: overlay;
+                margin: auto;
+            }
+            .post-header-holder {
+                background-color: #fd42B333;
+                height: 475px;
+                max-width: 1200px;
+                border-radius: 20px;
+                background-size: cover;
+                background-position: center;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-justify-content: flex-end;
+                -ms-flex-pack: end;
+                justify-content: flex-end;
+                -webkit-flex-direction: column;
+                -ms-flex-direction: column;
+                flex-direction: column;
+                background-blend-mode: overlay;
+                margin: auto;
+
+                .hfe-search-form {
+                    display: block;}
+                  input, button {padding: 10px;}
+                  input {width: 10%;}
+                } 
+
+                .cadastro{
+                    font-size: 1.2em;
+                    background: #7060ab;
+                    border: 0;
+                    margin-bottom: 1em;
+                    color: #ffffff;
+                    padding: 0.2em 0.6em;
+                    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+                    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+                    position: absolute;
+                }
+
+                nav {
+                    margin: 0;
+                    padding: 0;
+                    overflow: hidden;
+                    
+                    
+                }
+
+                li a {
+                    display: block;
+                    color: white;
+                    text-align: center;
+                    padding: 16px;
+                    text-decoration: none;
+                    
+
+                }
+
+                li a:hover {
+
+                    background-color: grey;
+                }
+
+                .Buscar {
+
+                    float: right;
+
+                }
